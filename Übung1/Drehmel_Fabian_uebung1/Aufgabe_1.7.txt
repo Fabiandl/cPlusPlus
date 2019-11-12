@@ -1,0 +1,41 @@
+a)
+int n = 1, sum = 0;
+while(n <= 100) {
+    ++n;
+    sum += n;
+}
+//Erstes Element, welches addiert wird ist "2" und nicht "1"
+//Letztes Element, welches addiert wird ist "101" und nicht "100"
+
+b)
+int n = 1, sum = 1;
+while(n < 100)
+    n += 1;
+    sum += n;
+//Sieht richtig aus. "1" von "sum" + 2 .... + 100 ABER es fehlen die
+//die Klammern der while schleife.... Deshalb leider doch nicht, da
+//nur n+=1; im Schleifendurchgang ist.   
+
+c)
+int n = 100;
+int sum = n*(n+1)/2;
+//Kommt das richtige herraus aber kein Bezug zum Summenzeichen
+
+d)
+int n = 1;
+while(n < 100) {
+    int sum = 0;
+    n = n + 1;
+    sum = sum + n;
+}
+//Summe wird jedes mal neu un Schleife selbst neu als integer 
+//initialisiert und mit "0" deklariert.
+
+e)
+int n = 1, sum = 0;
+while(n <= 0100) {
+    sum += n;
+    ++n;
+}
+//0100 wird Bitweise interpretiert und als 4 gewertet, Schleife geht nur 
+// bis 4

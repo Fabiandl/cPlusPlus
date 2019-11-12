@@ -1,0 +1,18 @@
+Welche Fallstricke sind in den folgenden Schleifen verborgen?
+
+    while(i > 0) k = 2 * k;
+    //Läuft unendlich, i wird in der Schleife nicht verändert und
+    //somit nicht abgebrochen.
+    
+    while(i != 0) i = i - 2;
+    //Läuft unendlich, wenn i ungerade Zahl, zum Bepsiel i = 1:
+    // 1 ist ungelich 0, also wird 1-2= -1, "0" wird nicht getroffen.
+    
+    while(n != i) { 
+    ++i; 
+    n = 2 * i; 
+    }
+    //Läuft unendlich lange, da sich n stetig um den Faktor 2 * 
+    //(eingegebenes i + 1) vergrößert und i nur immer +1 pro Durchlauf
+    // gerechent wird.
+    

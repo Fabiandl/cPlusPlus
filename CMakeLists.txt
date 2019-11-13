@@ -12,7 +12,7 @@ include_directories(Übung4/Drehmel_Fabian_uebung4)
 include_directories(Übung5/Drehmel_Fabian_Uebung5)
 
 add_executable(C__
-        Übung5/Drehmel_Fabian_Uebung5/array2d.h
-        Übung5/Drehmel_Fabian_Uebung5/Aufgabe_5.3.cpp
+#        Übung5/Drehmel_Fabian_Uebung5/array2d.h
+#        Übung5/Drehmel_Fabian_Uebung5/Aufgabe_5.3.cpp
 
-       )
+        Übung5/Drehmel_Fabian_Uebung5/Aufgabe_5.4.cpp)

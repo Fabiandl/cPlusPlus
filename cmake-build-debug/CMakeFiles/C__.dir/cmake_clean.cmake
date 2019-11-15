@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/C__.dir/Übung5/Drehmel_Fabian_Uebung5/Aufgabe_5.5.cpp.o"
+  "CMakeFiles/C__.dir/Übung5/Drehmel_Fabian_Uebung5/Aufgabe_5.7.cpp.o"
+  "CMakeFiles/C__.dir/Übung5/Drehmel_Fabian_Uebung5/Teilnehmer.cpp.o"
   "C__"
   "C__.pdb"
 )

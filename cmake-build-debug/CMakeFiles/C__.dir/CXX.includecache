@@ -6,11 +6,23 @@
 
 #IncludeRegexTransform: 
 
-/home/fdl/Dokumente/C++/Übung5/Drehmel_Fabian_Uebung5/Aufgabe_5.5.cpp
+/home/fdl/Dokumente/C++/Übung5/Drehmel_Fabian_Uebung5/Aufgabe_5.7.cpp
 iostream
 -
-fstream
+Teilnehmer.h
+/home/fdl/Dokumente/C++/Übung5/Drehmel_Fabian_Uebung5/Teilnehmer.h
+
+/home/fdl/Dokumente/C++/Übung5/Drehmel_Fabian_Uebung5/Teilnehmer.cpp
+Teilnehmer.h
+/home/fdl/Dokumente/C++/Übung5/Drehmel_Fabian_Uebung5/Teilnehmer.h
+algorithm
 -
+iostream
+-
+
+/home/fdl/Dokumente/C++/Übung5/Drehmel_Fabian_Uebung5/Teilnehmer.h
 string
+-
+vector
 -
 

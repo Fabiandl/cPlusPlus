@@ -5,7 +5,7 @@ using namespace std;
 int main(){
  int matrix[2][3];
 
-cout << sizeof(matrix) << endl;
+cout << 2*3*sizeof(matrix) << endl;
 }
 
 /*Angenommen das Element matrix[0][0] liegt an der Adresse 0. 

@@ -57,42 +57,42 @@ include CMakeFiles/C__.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/C__.dir/flags.make
 
-CMakeFiles/C__.dir/Übung5/Drehmel_Fabian_Uebung5/Aufgabe_5.7.cpp.o: CMakeFiles/C__.dir/flags.make
-CMakeFiles/C__.dir/Übung5/Drehmel_Fabian_Uebung5/Aufgabe_5.7.cpp.o: ../Übung5/Drehmel_Fabian_Uebung5/Aufgabe_5.7.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/cpp/CLionProjects/CPlusPlusNew/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/C__.dir/Übung5/Drehmel_Fabian_Uebung5/Aufgabe_5.7.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C__.dir/Übung5/Drehmel_Fabian_Uebung5/Aufgabe_5.7.cpp.o -c /home/cpp/CLionProjects/CPlusPlusNew/Übung5/Drehmel_Fabian_Uebung5/Aufgabe_5.7.cpp
+CMakeFiles/C__.dir/Übung9/NamensMap.cpp.o: CMakeFiles/C__.dir/flags.make
+CMakeFiles/C__.dir/Übung9/NamensMap.cpp.o: ../Übung9/NamensMap.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/cpp/CLionProjects/CPlusPlusNew/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/C__.dir/Übung9/NamensMap.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C__.dir/Übung9/NamensMap.cpp.o -c /home/cpp/CLionProjects/CPlusPlusNew/Übung9/NamensMap.cpp
 
-CMakeFiles/C__.dir/Übung5/Drehmel_Fabian_Uebung5/Aufgabe_5.7.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C__.dir/Übung5/Drehmel_Fabian_Uebung5/Aufgabe_5.7.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/cpp/CLionProjects/CPlusPlusNew/Übung5/Drehmel_Fabian_Uebung5/Aufgabe_5.7.cpp > CMakeFiles/C__.dir/Übung5/Drehmel_Fabian_Uebung5/Aufgabe_5.7.cpp.i
+CMakeFiles/C__.dir/Übung9/NamensMap.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C__.dir/Übung9/NamensMap.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/cpp/CLionProjects/CPlusPlusNew/Übung9/NamensMap.cpp > CMakeFiles/C__.dir/Übung9/NamensMap.cpp.i
 
-CMakeFiles/C__.dir/Übung5/Drehmel_Fabian_Uebung5/Aufgabe_5.7.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C__.dir/Übung5/Drehmel_Fabian_Uebung5/Aufgabe_5.7.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/cpp/CLionProjects/CPlusPlusNew/Übung5/Drehmel_Fabian_Uebung5/Aufgabe_5.7.cpp -o CMakeFiles/C__.dir/Übung5/Drehmel_Fabian_Uebung5/Aufgabe_5.7.cpp.s
+CMakeFiles/C__.dir/Übung9/NamensMap.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C__.dir/Übung9/NamensMap.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/cpp/CLionProjects/CPlusPlusNew/Übung9/NamensMap.cpp -o CMakeFiles/C__.dir/Übung9/NamensMap.cpp.s
 
-CMakeFiles/C__.dir/Übung5/Drehmel_Fabian_Uebung5/Teilnehmer.cpp.o: CMakeFiles/C__.dir/flags.make
-CMakeFiles/C__.dir/Übung5/Drehmel_Fabian_Uebung5/Teilnehmer.cpp.o: ../Übung5/Drehmel_Fabian_Uebung5/Teilnehmer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/cpp/CLionProjects/CPlusPlusNew/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/C__.dir/Übung5/Drehmel_Fabian_Uebung5/Teilnehmer.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C__.dir/Übung5/Drehmel_Fabian_Uebung5/Teilnehmer.cpp.o -c /home/cpp/CLionProjects/CPlusPlusNew/Übung5/Drehmel_Fabian_Uebung5/Teilnehmer.cpp
+CMakeFiles/C__.dir/Übung10/MyQueueInt.cpp.o: CMakeFiles/C__.dir/flags.make
+CMakeFiles/C__.dir/Übung10/MyQueueInt.cpp.o: ../Übung10/MyQueueInt.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/cpp/CLionProjects/CPlusPlusNew/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/C__.dir/Übung10/MyQueueInt.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C__.dir/Übung10/MyQueueInt.cpp.o -c /home/cpp/CLionProjects/CPlusPlusNew/Übung10/MyQueueInt.cpp
 
-CMakeFiles/C__.dir/Übung5/Drehmel_Fabian_Uebung5/Teilnehmer.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C__.dir/Übung5/Drehmel_Fabian_Uebung5/Teilnehmer.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/cpp/CLionProjects/CPlusPlusNew/Übung5/Drehmel_Fabian_Uebung5/Teilnehmer.cpp > CMakeFiles/C__.dir/Übung5/Drehmel_Fabian_Uebung5/Teilnehmer.cpp.i
+CMakeFiles/C__.dir/Übung10/MyQueueInt.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C__.dir/Übung10/MyQueueInt.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/cpp/CLionProjects/CPlusPlusNew/Übung10/MyQueueInt.cpp > CMakeFiles/C__.dir/Übung10/MyQueueInt.cpp.i
 
-CMakeFiles/C__.dir/Übung5/Drehmel_Fabian_Uebung5/Teilnehmer.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C__.dir/Übung5/Drehmel_Fabian_Uebung5/Teilnehmer.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/cpp/CLionProjects/CPlusPlusNew/Übung5/Drehmel_Fabian_Uebung5/Teilnehmer.cpp -o CMakeFiles/C__.dir/Übung5/Drehmel_Fabian_Uebung5/Teilnehmer.cpp.s
+CMakeFiles/C__.dir/Übung10/MyQueueInt.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C__.dir/Übung10/MyQueueInt.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/cpp/CLionProjects/CPlusPlusNew/Übung10/MyQueueInt.cpp -o CMakeFiles/C__.dir/Übung10/MyQueueInt.cpp.s
 
 # Object files for target C__
 C___OBJECTS = \
-"CMakeFiles/C__.dir/Übung5/Drehmel_Fabian_Uebung5/Aufgabe_5.7.cpp.o" \
-"CMakeFiles/C__.dir/Übung5/Drehmel_Fabian_Uebung5/Teilnehmer.cpp.o"
+"CMakeFiles/C__.dir/Übung9/NamensMap.cpp.o" \
+"CMakeFiles/C__.dir/Übung10/MyQueueInt.cpp.o"
 
 # External object files for target C__
 C___EXTERNAL_OBJECTS =
 
-C__: CMakeFiles/C__.dir/Übung5/Drehmel_Fabian_Uebung5/Aufgabe_5.7.cpp.o
-C__: CMakeFiles/C__.dir/Übung5/Drehmel_Fabian_Uebung5/Teilnehmer.cpp.o
+C__: CMakeFiles/C__.dir/Übung9/NamensMap.cpp.o
+C__: CMakeFiles/C__.dir/Übung10/MyQueueInt.cpp.o
 C__: CMakeFiles/C__.dir/build.make
 C__: CMakeFiles/C__.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/cpp/CLionProjects/CPlusPlusNew/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable C__"

@@ -123,59 +123,59 @@ C__/fast:
 	$(MAKE) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/build
 .PHONY : C__/fast
 
-Übung5/Drehmel_Fabian_Uebung5/Aufgabe_5.7.o: Übung5/Drehmel_Fabian_Uebung5/Aufgabe_5.7.cpp.o
+Übung10/MyQueueInt.o: Übung10/MyQueueInt.cpp.o
 
-.PHONY : Übung5/Drehmel_Fabian_Uebung5/Aufgabe_5.7.o
-
-# target to build an object file
-Übung5/Drehmel_Fabian_Uebung5/Aufgabe_5.7.cpp.o:
-	$(MAKE) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/Übung5/Drehmel_Fabian_Uebung5/Aufgabe_5.7.cpp.o
-.PHONY : Übung5/Drehmel_Fabian_Uebung5/Aufgabe_5.7.cpp.o
-
-Übung5/Drehmel_Fabian_Uebung5/Aufgabe_5.7.i: Übung5/Drehmel_Fabian_Uebung5/Aufgabe_5.7.cpp.i
-
-.PHONY : Übung5/Drehmel_Fabian_Uebung5/Aufgabe_5.7.i
-
-# target to preprocess a source file
-Übung5/Drehmel_Fabian_Uebung5/Aufgabe_5.7.cpp.i:
-	$(MAKE) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/Übung5/Drehmel_Fabian_Uebung5/Aufgabe_5.7.cpp.i
-.PHONY : Übung5/Drehmel_Fabian_Uebung5/Aufgabe_5.7.cpp.i
-
-Übung5/Drehmel_Fabian_Uebung5/Aufgabe_5.7.s: Übung5/Drehmel_Fabian_Uebung5/Aufgabe_5.7.cpp.s
-
-.PHONY : Übung5/Drehmel_Fabian_Uebung5/Aufgabe_5.7.s
-
-# target to generate assembly for a file
-Übung5/Drehmel_Fabian_Uebung5/Aufgabe_5.7.cpp.s:
-	$(MAKE) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/Übung5/Drehmel_Fabian_Uebung5/Aufgabe_5.7.cpp.s
-.PHONY : Übung5/Drehmel_Fabian_Uebung5/Aufgabe_5.7.cpp.s
-
-Übung5/Drehmel_Fabian_Uebung5/Teilnehmer.o: Übung5/Drehmel_Fabian_Uebung5/Teilnehmer.cpp.o
-
-.PHONY : Übung5/Drehmel_Fabian_Uebung5/Teilnehmer.o
+.PHONY : Übung10/MyQueueInt.o
 
 # target to build an object file
-Übung5/Drehmel_Fabian_Uebung5/Teilnehmer.cpp.o:
-	$(MAKE) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/Übung5/Drehmel_Fabian_Uebung5/Teilnehmer.cpp.o
-.PHONY : Übung5/Drehmel_Fabian_Uebung5/Teilnehmer.cpp.o
+Übung10/MyQueueInt.cpp.o:
+	$(MAKE) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/Übung10/MyQueueInt.cpp.o
+.PHONY : Übung10/MyQueueInt.cpp.o
 
-Übung5/Drehmel_Fabian_Uebung5/Teilnehmer.i: Übung5/Drehmel_Fabian_Uebung5/Teilnehmer.cpp.i
+Übung10/MyQueueInt.i: Übung10/MyQueueInt.cpp.i
 
-.PHONY : Übung5/Drehmel_Fabian_Uebung5/Teilnehmer.i
+.PHONY : Übung10/MyQueueInt.i
 
 # target to preprocess a source file
-Übung5/Drehmel_Fabian_Uebung5/Teilnehmer.cpp.i:
-	$(MAKE) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/Übung5/Drehmel_Fabian_Uebung5/Teilnehmer.cpp.i
-.PHONY : Übung5/Drehmel_Fabian_Uebung5/Teilnehmer.cpp.i
+Übung10/MyQueueInt.cpp.i:
+	$(MAKE) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/Übung10/MyQueueInt.cpp.i
+.PHONY : Übung10/MyQueueInt.cpp.i
 
-Übung5/Drehmel_Fabian_Uebung5/Teilnehmer.s: Übung5/Drehmel_Fabian_Uebung5/Teilnehmer.cpp.s
+Übung10/MyQueueInt.s: Übung10/MyQueueInt.cpp.s
 
-.PHONY : Übung5/Drehmel_Fabian_Uebung5/Teilnehmer.s
+.PHONY : Übung10/MyQueueInt.s
 
 # target to generate assembly for a file
-Übung5/Drehmel_Fabian_Uebung5/Teilnehmer.cpp.s:
-	$(MAKE) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/Übung5/Drehmel_Fabian_Uebung5/Teilnehmer.cpp.s
-.PHONY : Übung5/Drehmel_Fabian_Uebung5/Teilnehmer.cpp.s
+Übung10/MyQueueInt.cpp.s:
+	$(MAKE) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/Übung10/MyQueueInt.cpp.s
+.PHONY : Übung10/MyQueueInt.cpp.s
+
+Übung9/NamensMap.o: Übung9/NamensMap.cpp.o
+
+.PHONY : Übung9/NamensMap.o
+
+# target to build an object file
+Übung9/NamensMap.cpp.o:
+	$(MAKE) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/Übung9/NamensMap.cpp.o
+.PHONY : Übung9/NamensMap.cpp.o
+
+Übung9/NamensMap.i: Übung9/NamensMap.cpp.i
+
+.PHONY : Übung9/NamensMap.i
+
+# target to preprocess a source file
+Übung9/NamensMap.cpp.i:
+	$(MAKE) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/Übung9/NamensMap.cpp.i
+.PHONY : Übung9/NamensMap.cpp.i
+
+Übung9/NamensMap.s: Übung9/NamensMap.cpp.s
+
+.PHONY : Übung9/NamensMap.s
+
+# target to generate assembly for a file
+Übung9/NamensMap.cpp.s:
+	$(MAKE) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/Übung9/NamensMap.cpp.s
+.PHONY : Übung9/NamensMap.cpp.s
 
 # Help Target
 help:
@@ -186,12 +186,12 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... C__"
 	@echo "... edit_cache"
-	@echo "... Übung5/Drehmel_Fabian_Uebung5/Aufgabe_5.7.o"
-	@echo "... Übung5/Drehmel_Fabian_Uebung5/Aufgabe_5.7.i"
-	@echo "... Übung5/Drehmel_Fabian_Uebung5/Aufgabe_5.7.s"
-	@echo "... Übung5/Drehmel_Fabian_Uebung5/Teilnehmer.o"
-	@echo "... Übung5/Drehmel_Fabian_Uebung5/Teilnehmer.i"
-	@echo "... Übung5/Drehmel_Fabian_Uebung5/Teilnehmer.s"
+	@echo "... Übung10/MyQueueInt.o"
+	@echo "... Übung10/MyQueueInt.i"
+	@echo "... Übung10/MyQueueInt.s"
+	@echo "... Übung9/NamensMap.o"
+	@echo "... Übung9/NamensMap.i"
+	@echo "... Übung9/NamensMap.s"
 .PHONY : help
 
 

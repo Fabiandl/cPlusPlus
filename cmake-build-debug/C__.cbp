@@ -98,13 +98,13 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/cpp/CLionProjects/CPlusPlusNew/Übung5/Drehmel_Fabian_Uebung5/Aufgabe_5.7.cpp">
+		<Unit filename="/home/cpp/CLionProjects/CPlusPlusNew/Übung10/MyQueueInt.cpp">
 			<Option target="C__"/>
 		</Unit>
-		<Unit filename="/home/cpp/CLionProjects/CPlusPlusNew/Übung5/Drehmel_Fabian_Uebung5/Teilnehmer.cpp">
+		<Unit filename="/home/cpp/CLionProjects/CPlusPlusNew/Übung10/MyQueueInt.h">
 			<Option target="C__"/>
 		</Unit>
-		<Unit filename="/home/cpp/CLionProjects/CPlusPlusNew/Übung5/Drehmel_Fabian_Uebung5/Teilnehmer.h">
+		<Unit filename="/home/cpp/CLionProjects/CPlusPlusNew/Übung9/NamensMap.cpp">
 			<Option target="C__"/>
 		</Unit>
 		<Unit filename="/home/cpp/CLionProjects/CPlusPlusNew/CMakeLists.txt">

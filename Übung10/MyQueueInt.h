@@ -13,13 +13,17 @@ template <class T>
 class MyQueueInt {
 public:
     MyQueueInt(initializer_list<T> args);
+    MyQueueInt();
     void push_back(T);
     void pop_front();
-    void size();
+    int size();
     bool empty();
+    int * begin;
+    int * end;
 
 private:
     vector<T> myVector;
+
 };
 
 

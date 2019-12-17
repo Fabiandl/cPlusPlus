@@ -150,32 +150,32 @@ C__/fast:
 	$(MAKE) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/Übung10/MyQueueInt.cpp.s
 .PHONY : Übung10/MyQueueInt.cpp.s
 
-Übung9/NamensMap.o: Übung9/NamensMap.cpp.o
+Übung10/main.o: Übung10/main.cpp.o
 
-.PHONY : Übung9/NamensMap.o
+.PHONY : Übung10/main.o
 
 # target to build an object file
-Übung9/NamensMap.cpp.o:
-	$(MAKE) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/Übung9/NamensMap.cpp.o
-.PHONY : Übung9/NamensMap.cpp.o
+Übung10/main.cpp.o:
+	$(MAKE) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/Übung10/main.cpp.o
+.PHONY : Übung10/main.cpp.o
 
-Übung9/NamensMap.i: Übung9/NamensMap.cpp.i
+Übung10/main.i: Übung10/main.cpp.i
 
-.PHONY : Übung9/NamensMap.i
+.PHONY : Übung10/main.i
 
 # target to preprocess a source file
-Übung9/NamensMap.cpp.i:
-	$(MAKE) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/Übung9/NamensMap.cpp.i
-.PHONY : Übung9/NamensMap.cpp.i
+Übung10/main.cpp.i:
+	$(MAKE) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/Übung10/main.cpp.i
+.PHONY : Übung10/main.cpp.i
 
-Übung9/NamensMap.s: Übung9/NamensMap.cpp.s
+Übung10/main.s: Übung10/main.cpp.s
 
-.PHONY : Übung9/NamensMap.s
+.PHONY : Übung10/main.s
 
 # target to generate assembly for a file
-Übung9/NamensMap.cpp.s:
-	$(MAKE) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/Übung9/NamensMap.cpp.s
-.PHONY : Übung9/NamensMap.cpp.s
+Übung10/main.cpp.s:
+	$(MAKE) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/Übung10/main.cpp.s
+.PHONY : Übung10/main.cpp.s
 
 # Help Target
 help:
@@ -189,9 +189,9 @@ help:
 	@echo "... Übung10/MyQueueInt.o"
 	@echo "... Übung10/MyQueueInt.i"
 	@echo "... Übung10/MyQueueInt.s"
-	@echo "... Übung9/NamensMap.o"
-	@echo "... Übung9/NamensMap.i"
-	@echo "... Übung9/NamensMap.s"
+	@echo "... Übung10/main.o"
+	@echo "... Übung10/main.i"
+	@echo "... Übung10/main.s"
 .PHONY : help
 
 

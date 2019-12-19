@@ -43,10 +43,10 @@ RM = /home/cpp/Downloads/clion/bin/cmake/linux/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/cpp/CLionProjects/CPlusPlusNew
+CMAKE_SOURCE_DIR = /home/cpp/CLionProjects/NeuNeu
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/cpp/CLionProjects/CPlusPlusNew/cmake-build-debug
+CMAKE_BINARY_DIR = /home/cpp/CLionProjects/NeuNeu/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/C__.dir/depend.make
@@ -59,29 +59,29 @@ include CMakeFiles/C__.dir/flags.make
 
 CMakeFiles/C__.dir/Übung10/MyQueueInt.cpp.o: CMakeFiles/C__.dir/flags.make
 CMakeFiles/C__.dir/Übung10/MyQueueInt.cpp.o: ../Übung10/MyQueueInt.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/cpp/CLionProjects/CPlusPlusNew/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/C__.dir/Übung10/MyQueueInt.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C__.dir/Übung10/MyQueueInt.cpp.o -c /home/cpp/CLionProjects/CPlusPlusNew/Übung10/MyQueueInt.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/cpp/CLionProjects/NeuNeu/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/C__.dir/Übung10/MyQueueInt.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C__.dir/Übung10/MyQueueInt.cpp.o -c /home/cpp/CLionProjects/NeuNeu/Übung10/MyQueueInt.cpp
 
 CMakeFiles/C__.dir/Übung10/MyQueueInt.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C__.dir/Übung10/MyQueueInt.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/cpp/CLionProjects/CPlusPlusNew/Übung10/MyQueueInt.cpp > CMakeFiles/C__.dir/Übung10/MyQueueInt.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/cpp/CLionProjects/NeuNeu/Übung10/MyQueueInt.cpp > CMakeFiles/C__.dir/Übung10/MyQueueInt.cpp.i
 
 CMakeFiles/C__.dir/Übung10/MyQueueInt.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C__.dir/Übung10/MyQueueInt.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/cpp/CLionProjects/CPlusPlusNew/Übung10/MyQueueInt.cpp -o CMakeFiles/C__.dir/Übung10/MyQueueInt.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/cpp/CLionProjects/NeuNeu/Übung10/MyQueueInt.cpp -o CMakeFiles/C__.dir/Übung10/MyQueueInt.cpp.s
 
 CMakeFiles/C__.dir/Übung10/main.cpp.o: CMakeFiles/C__.dir/flags.make
 CMakeFiles/C__.dir/Übung10/main.cpp.o: ../Übung10/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/cpp/CLionProjects/CPlusPlusNew/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/C__.dir/Übung10/main.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C__.dir/Übung10/main.cpp.o -c /home/cpp/CLionProjects/CPlusPlusNew/Übung10/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/cpp/CLionProjects/NeuNeu/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/C__.dir/Übung10/main.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C__.dir/Übung10/main.cpp.o -c /home/cpp/CLionProjects/NeuNeu/Übung10/main.cpp
 
 CMakeFiles/C__.dir/Übung10/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C__.dir/Übung10/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/cpp/CLionProjects/CPlusPlusNew/Übung10/main.cpp > CMakeFiles/C__.dir/Übung10/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/cpp/CLionProjects/NeuNeu/Übung10/main.cpp > CMakeFiles/C__.dir/Übung10/main.cpp.i
 
 CMakeFiles/C__.dir/Übung10/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C__.dir/Übung10/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/cpp/CLionProjects/CPlusPlusNew/Übung10/main.cpp -o CMakeFiles/C__.dir/Übung10/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/cpp/CLionProjects/NeuNeu/Übung10/main.cpp -o CMakeFiles/C__.dir/Übung10/main.cpp.s
 
 # Object files for target C__
 C___OBJECTS = \
@@ -95,7 +95,7 @@ C__: CMakeFiles/C__.dir/Übung10/MyQueueInt.cpp.o
 C__: CMakeFiles/C__.dir/Übung10/main.cpp.o
 C__: CMakeFiles/C__.dir/build.make
 C__: CMakeFiles/C__.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/cpp/CLionProjects/CPlusPlusNew/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable C__"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/cpp/CLionProjects/NeuNeu/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable C__"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/C__.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -108,6 +108,6 @@ CMakeFiles/C__.dir/clean:
 .PHONY : CMakeFiles/C__.dir/clean
 
 CMakeFiles/C__.dir/depend:
-	cd /home/cpp/CLionProjects/CPlusPlusNew/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/cpp/CLionProjects/CPlusPlusNew /home/cpp/CLionProjects/CPlusPlusNew /home/cpp/CLionProjects/CPlusPlusNew/cmake-build-debug /home/cpp/CLionProjects/CPlusPlusNew/cmake-build-debug /home/cpp/CLionProjects/CPlusPlusNew/cmake-build-debug/CMakeFiles/C__.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/cpp/CLionProjects/NeuNeu/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/cpp/CLionProjects/NeuNeu /home/cpp/CLionProjects/NeuNeu /home/cpp/CLionProjects/NeuNeu/cmake-build-debug /home/cpp/CLionProjects/NeuNeu/cmake-build-debug /home/cpp/CLionProjects/NeuNeu/cmake-build-debug/CMakeFiles/C__.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/C__.dir/depend
 

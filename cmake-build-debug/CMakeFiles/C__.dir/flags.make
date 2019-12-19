@@ -6,5 +6,5 @@ CXX_FLAGS = -g   -std=gnu++14
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/cpp/CLionProjects/CPlusPlusNew/. -I/home/cpp/CLionProjects/CPlusPlusNew/Übung1 -I/home/cpp/CLionProjects/CPlusPlusNew/Übung2 -I/home/cpp/CLionProjects/CPlusPlusNew/Übung3 -I/home/cpp/CLionProjects/CPlusPlusNew/Übung4 -I/home/cpp/CLionProjects/CPlusPlusNew/Übung4/Drehmel_Fabian_uebung4 -I/home/cpp/CLionProjects/CPlusPlusNew/Übung5/Drehmel_Fabian_Uebung5 
+CXX_INCLUDES = -I/home/cpp/CLionProjects/NeuNeu/. -I/home/cpp/CLionProjects/NeuNeu/Übung1 -I/home/cpp/CLionProjects/NeuNeu/Übung2 -I/home/cpp/CLionProjects/NeuNeu/Übung3 -I/home/cpp/CLionProjects/NeuNeu/Übung4 -I/home/cpp/CLionProjects/NeuNeu/Übung4/Drehmel_Fabian_uebung4 -I/home/cpp/CLionProjects/NeuNeu/Übung5/Drehmel_Fabian_Uebung5 
 

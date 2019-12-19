@@ -12,12 +12,10 @@ MyQueueInt<T>::MyQueueInt(initializer_list<T> args) {
         myVector.push_back(elem);
     }
     begin = myVector.data();
-//    end = myVector + myVector.size();
 }
 template <class T>
 MyQueueInt<T>::MyQueueInt() {
     begin = myVector.data();
-//    end = myVector + myVector.size();
 }
 
 
@@ -28,7 +26,6 @@ void MyQueueInt<T>::push_back(T value) {
 
 template <class T>
 void MyQueueInt<T>::pop_front() {
-    cout << "Ganz vorne wird gelöscht:" <<myVector.begin();
     myVector.erase(myVector.begin());
 }
 
@@ -42,11 +39,4 @@ bool MyQueueInt<T>::empty() {
     return myVector.empty();
 }
 
-ostream& operator<<(ostream& stream, MyQueueInt<int>& mqi){
-    stream << "Queue: ";
-    for(size_t x = 0; x < mqi.end();x++) {
-//        stream << mqi.begin + x;
-    }
-    return stream;
-}
 

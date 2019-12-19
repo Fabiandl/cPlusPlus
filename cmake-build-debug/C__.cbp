@@ -8,39 +8,39 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/home/cpp/CLionProjects/CPlusPlusNew/cmake-build-debug"/>
+				<Option working_dir="/home/cpp/CLionProjects/NeuNeu/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -f &quot;/home/cpp/CLionProjects/CPlusPlusNew/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -f &quot;/home/cpp/CLionProjects/CPlusPlusNew/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -f &quot;/home/cpp/CLionProjects/CPlusPlusNew/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -f &quot;/home/cpp/CLionProjects/CPlusPlusNew/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -f &quot;/home/cpp/CLionProjects/NeuNeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/cpp/CLionProjects/NeuNeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/cpp/CLionProjects/NeuNeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/cpp/CLionProjects/NeuNeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/home/cpp/CLionProjects/CPlusPlusNew/cmake-build-debug"/>
+				<Option working_dir="/home/cpp/CLionProjects/NeuNeu/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -f &quot;/home/cpp/CLionProjects/CPlusPlusNew/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -f &quot;/home/cpp/CLionProjects/CPlusPlusNew/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -f &quot;/home/cpp/CLionProjects/CPlusPlusNew/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -f &quot;/home/cpp/CLionProjects/CPlusPlusNew/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -f &quot;/home/cpp/CLionProjects/NeuNeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/cpp/CLionProjects/NeuNeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/cpp/CLionProjects/NeuNeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/cpp/CLionProjects/NeuNeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="C__">
-				<Option output="/home/cpp/CLionProjects/CPlusPlusNew/cmake-build-debug/C__" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/cpp/CLionProjects/CPlusPlusNew/cmake-build-debug"/>
+				<Option output="/home/cpp/CLionProjects/NeuNeu/cmake-build-debug/C__" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cpp/CLionProjects/NeuNeu/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/home/cpp/CLionProjects/CPlusPlusNew/."/>
-					<Add directory="/home/cpp/CLionProjects/CPlusPlusNew/Übung1"/>
-					<Add directory="/home/cpp/CLionProjects/CPlusPlusNew/Übung2"/>
-					<Add directory="/home/cpp/CLionProjects/CPlusPlusNew/Übung3"/>
-					<Add directory="/home/cpp/CLionProjects/CPlusPlusNew/Übung4"/>
-					<Add directory="/home/cpp/CLionProjects/CPlusPlusNew/Übung4/Drehmel_Fabian_uebung4"/>
-					<Add directory="/home/cpp/CLionProjects/CPlusPlusNew/Übung5/Drehmel_Fabian_Uebung5"/>
+					<Add directory="/home/cpp/CLionProjects/NeuNeu/."/>
+					<Add directory="/home/cpp/CLionProjects/NeuNeu/Übung1"/>
+					<Add directory="/home/cpp/CLionProjects/NeuNeu/Übung2"/>
+					<Add directory="/home/cpp/CLionProjects/NeuNeu/Übung3"/>
+					<Add directory="/home/cpp/CLionProjects/NeuNeu/Übung4"/>
+					<Add directory="/home/cpp/CLionProjects/NeuNeu/Übung4/Drehmel_Fabian_uebung4"/>
+					<Add directory="/home/cpp/CLionProjects/NeuNeu/Übung5/Drehmel_Fabian_Uebung5"/>
 					<Add directory="/usr/include/c++/8"/>
 					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
 					<Add directory="/usr/include/c++/8/backward"/>
@@ -51,26 +51,26 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -f &quot;/home/cpp/CLionProjects/CPlusPlusNew/cmake-build-debug/Makefile&quot;  VERBOSE=1 C__"/>
-					<CompileFile command="/usr/bin/make -f &quot;/home/cpp/CLionProjects/CPlusPlusNew/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -f &quot;/home/cpp/CLionProjects/CPlusPlusNew/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -f &quot;/home/cpp/CLionProjects/CPlusPlusNew/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -f &quot;/home/cpp/CLionProjects/NeuNeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 C__"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/cpp/CLionProjects/NeuNeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/cpp/CLionProjects/NeuNeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/cpp/CLionProjects/NeuNeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="C__/fast">
-				<Option output="/home/cpp/CLionProjects/CPlusPlusNew/cmake-build-debug/C__" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/cpp/CLionProjects/CPlusPlusNew/cmake-build-debug"/>
+				<Option output="/home/cpp/CLionProjects/NeuNeu/cmake-build-debug/C__" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cpp/CLionProjects/NeuNeu/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/home/cpp/CLionProjects/CPlusPlusNew/."/>
-					<Add directory="/home/cpp/CLionProjects/CPlusPlusNew/Übung1"/>
-					<Add directory="/home/cpp/CLionProjects/CPlusPlusNew/Übung2"/>
-					<Add directory="/home/cpp/CLionProjects/CPlusPlusNew/Übung3"/>
-					<Add directory="/home/cpp/CLionProjects/CPlusPlusNew/Übung4"/>
-					<Add directory="/home/cpp/CLionProjects/CPlusPlusNew/Übung4/Drehmel_Fabian_uebung4"/>
-					<Add directory="/home/cpp/CLionProjects/CPlusPlusNew/Übung5/Drehmel_Fabian_Uebung5"/>
+					<Add directory="/home/cpp/CLionProjects/NeuNeu/."/>
+					<Add directory="/home/cpp/CLionProjects/NeuNeu/Übung1"/>
+					<Add directory="/home/cpp/CLionProjects/NeuNeu/Übung2"/>
+					<Add directory="/home/cpp/CLionProjects/NeuNeu/Übung3"/>
+					<Add directory="/home/cpp/CLionProjects/NeuNeu/Übung4"/>
+					<Add directory="/home/cpp/CLionProjects/NeuNeu/Übung4/Drehmel_Fabian_uebung4"/>
+					<Add directory="/home/cpp/CLionProjects/NeuNeu/Übung5/Drehmel_Fabian_Uebung5"/>
 					<Add directory="/usr/include/c++/8"/>
 					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
 					<Add directory="/usr/include/c++/8/backward"/>
@@ -81,33 +81,33 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -f &quot;/home/cpp/CLionProjects/CPlusPlusNew/cmake-build-debug/Makefile&quot;  VERBOSE=1 C__/fast"/>
-					<CompileFile command="/usr/bin/make -f &quot;/home/cpp/CLionProjects/CPlusPlusNew/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -f &quot;/home/cpp/CLionProjects/CPlusPlusNew/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -f &quot;/home/cpp/CLionProjects/CPlusPlusNew/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -f &quot;/home/cpp/CLionProjects/NeuNeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 C__/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/cpp/CLionProjects/NeuNeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/cpp/CLionProjects/NeuNeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/cpp/CLionProjects/NeuNeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/home/cpp/CLionProjects/CPlusPlusNew/cmake-build-debug"/>
+				<Option working_dir="/home/cpp/CLionProjects/NeuNeu/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -f &quot;/home/cpp/CLionProjects/CPlusPlusNew/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -f &quot;/home/cpp/CLionProjects/CPlusPlusNew/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -f &quot;/home/cpp/CLionProjects/CPlusPlusNew/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -f &quot;/home/cpp/CLionProjects/CPlusPlusNew/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -f &quot;/home/cpp/CLionProjects/NeuNeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/cpp/CLionProjects/NeuNeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/cpp/CLionProjects/NeuNeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/cpp/CLionProjects/NeuNeu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/cpp/CLionProjects/CPlusPlusNew/Übung10/MyQueueInt.cpp">
+		<Unit filename="/home/cpp/CLionProjects/NeuNeu/Übung10/MyQueueInt.cpp">
 			<Option target="C__"/>
 		</Unit>
-		<Unit filename="/home/cpp/CLionProjects/CPlusPlusNew/Übung10/MyQueueInt.h">
+		<Unit filename="/home/cpp/CLionProjects/NeuNeu/Übung10/MyQueueInt.h">
 			<Option target="C__"/>
 		</Unit>
-		<Unit filename="/home/cpp/CLionProjects/CPlusPlusNew/Übung10/main.cpp">
+		<Unit filename="/home/cpp/CLionProjects/NeuNeu/Übung10/main.cpp">
 			<Option target="C__"/>
 		</Unit>
-		<Unit filename="/home/cpp/CLionProjects/CPlusPlusNew/CMakeLists.txt">
+		<Unit filename="/home/cpp/CLionProjects/NeuNeu/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

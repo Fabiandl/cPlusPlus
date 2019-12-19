@@ -98,10 +98,10 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/cpp/CLionProjects/NeuNeu/Übung10/MyQueueInt.cpp">
+		<Unit filename="/home/cpp/CLionProjects/NeuNeu/Übung10/MyQueue.cpp">
 			<Option target="C__"/>
 		</Unit>
-		<Unit filename="/home/cpp/CLionProjects/NeuNeu/Übung10/MyQueueInt.h">
+		<Unit filename="/home/cpp/CLionProjects/NeuNeu/Übung10/MyQueue.h">
 			<Option target="C__"/>
 		</Unit>
 		<Unit filename="/home/cpp/CLionProjects/NeuNeu/Übung10/main.cpp">

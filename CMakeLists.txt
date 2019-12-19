@@ -13,4 +13,4 @@ include_directories(Übung5/Drehmel_Fabian_Uebung5)
 
 add_executable(C__
 #        Übung9/NamensMap.cpp
-        Übung10/MyQueueInt.cpp Übung10/MyQueueInt.h Übung10/main.cpp)
+        Übung10/MyQueue.cpp Übung10/MyQueue.h Übung10/main.cpp)

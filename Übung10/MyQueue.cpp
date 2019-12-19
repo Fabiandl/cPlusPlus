@@ -2,8 +2,9 @@
 // Created by cpp on 06.12.19.
 //
 
-#include "MyQueueInt.h"
+#include "MyQueue.h"
 #include <iostream>
+
 
 
 template <class T>
@@ -11,11 +12,21 @@ MyQueueInt<T>::MyQueueInt(initializer_list<T> args) {
     for(auto& elem : args){
         myVector.push_back(elem);
     }
-    begin = myVector.data();
+    start = myVector.data();
 }
 template <class T>
 MyQueueInt<T>::MyQueueInt() {
-    begin = myVector.data();
+    start = myVector.data();
+}
+
+template <class T>
+T* MyQueueInt<T>::begin() {
+    return myVector.data();
+}
+
+template <class T>
+T* MyQueueInt<T>::  end() {
+    return myVector.data() + size();
 }
 
 
@@ -38,5 +49,6 @@ template <class T>
 bool MyQueueInt<T>::empty() {
     return myVector.empty();
 }
+
 
 

@@ -123,32 +123,32 @@ C__/fast:
 	$(MAKE) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/build
 .PHONY : C__/fast
 
-Übung10/MyQueueInt.o: Übung10/MyQueueInt.cpp.o
+Übung10/MyQueue.o: Übung10/MyQueue.cpp.o
 
-.PHONY : Übung10/MyQueueInt.o
+.PHONY : Übung10/MyQueue.o
 
 # target to build an object file
-Übung10/MyQueueInt.cpp.o:
-	$(MAKE) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/Übung10/MyQueueInt.cpp.o
-.PHONY : Übung10/MyQueueInt.cpp.o
+Übung10/MyQueue.cpp.o:
+	$(MAKE) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/Übung10/MyQueue.cpp.o
+.PHONY : Übung10/MyQueue.cpp.o
 
-Übung10/MyQueueInt.i: Übung10/MyQueueInt.cpp.i
+Übung10/MyQueue.i: Übung10/MyQueue.cpp.i
 
-.PHONY : Übung10/MyQueueInt.i
+.PHONY : Übung10/MyQueue.i
 
 # target to preprocess a source file
-Übung10/MyQueueInt.cpp.i:
-	$(MAKE) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/Übung10/MyQueueInt.cpp.i
-.PHONY : Übung10/MyQueueInt.cpp.i
+Übung10/MyQueue.cpp.i:
+	$(MAKE) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/Übung10/MyQueue.cpp.i
+.PHONY : Übung10/MyQueue.cpp.i
 
-Übung10/MyQueueInt.s: Übung10/MyQueueInt.cpp.s
+Übung10/MyQueue.s: Übung10/MyQueue.cpp.s
 
-.PHONY : Übung10/MyQueueInt.s
+.PHONY : Übung10/MyQueue.s
 
 # target to generate assembly for a file
-Übung10/MyQueueInt.cpp.s:
-	$(MAKE) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/Übung10/MyQueueInt.cpp.s
-.PHONY : Übung10/MyQueueInt.cpp.s
+Übung10/MyQueue.cpp.s:
+	$(MAKE) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/Übung10/MyQueue.cpp.s
+.PHONY : Übung10/MyQueue.cpp.s
 
 Übung10/main.o: Übung10/main.cpp.o
 
@@ -186,9 +186,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... C__"
 	@echo "... edit_cache"
-	@echo "... Übung10/MyQueueInt.o"
-	@echo "... Übung10/MyQueueInt.i"
-	@echo "... Übung10/MyQueueInt.s"
+	@echo "... Übung10/MyQueue.o"
+	@echo "... Übung10/MyQueue.i"
+	@echo "... Übung10/MyQueue.s"
 	@echo "... Übung10/main.o"
 	@echo "... Übung10/main.i"
 	@echo "... Übung10/main.s"

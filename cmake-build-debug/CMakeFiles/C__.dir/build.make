@@ -34,19 +34,19 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = /home/fdl/snap/clion-2019.2.4/bin/cmake/linux/bin/cmake
+CMAKE_COMMAND = /home/cpp/Downloads/clion/bin/cmake/linux/bin/cmake
 
 # The command to remove a file.
-RM = /home/fdl/snap/clion-2019.2.4/bin/cmake/linux/bin/cmake -E remove -f
+RM = /home/cpp/Downloads/clion/bin/cmake/linux/bin/cmake -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/fdl/Dokumente/C++
+CMAKE_SOURCE_DIR = /home/cpp/CLionProjects/NeuNeu
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/fdl/Dokumente/C++/cmake-build-debug
+CMAKE_BINARY_DIR = /home/cpp/CLionProjects/NeuNeu/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/C__.dir/depend.make
@@ -57,45 +57,45 @@ include CMakeFiles/C__.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/C__.dir/flags.make
 
-CMakeFiles/C__.dir/Übung8/8.1-3/main.cpp.o: CMakeFiles/C__.dir/flags.make
-CMakeFiles/C__.dir/Übung8/8.1-3/main.cpp.o: ../Übung8/8.1-3/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/fdl/Dokumente/C++/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/C__.dir/Übung8/8.1-3/main.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C__.dir/Übung8/8.1-3/main.cpp.o -c /home/fdl/Dokumente/C++/Übung8/8.1-3/main.cpp
+CMakeFiles/C__.dir/Übung10/MyQueue.cpp.o: CMakeFiles/C__.dir/flags.make
+CMakeFiles/C__.dir/Übung10/MyQueue.cpp.o: ../Übung10/MyQueue.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/cpp/CLionProjects/NeuNeu/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/C__.dir/Übung10/MyQueue.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C__.dir/Übung10/MyQueue.cpp.o -c /home/cpp/CLionProjects/NeuNeu/Übung10/MyQueue.cpp
 
-CMakeFiles/C__.dir/Übung8/8.1-3/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C__.dir/Übung8/8.1-3/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/fdl/Dokumente/C++/Übung8/8.1-3/main.cpp > CMakeFiles/C__.dir/Übung8/8.1-3/main.cpp.i
+CMakeFiles/C__.dir/Übung10/MyQueue.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C__.dir/Übung10/MyQueue.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/cpp/CLionProjects/NeuNeu/Übung10/MyQueue.cpp > CMakeFiles/C__.dir/Übung10/MyQueue.cpp.i
 
-CMakeFiles/C__.dir/Übung8/8.1-3/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C__.dir/Übung8/8.1-3/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/fdl/Dokumente/C++/Übung8/8.1-3/main.cpp -o CMakeFiles/C__.dir/Übung8/8.1-3/main.cpp.s
+CMakeFiles/C__.dir/Übung10/MyQueue.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C__.dir/Übung10/MyQueue.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/cpp/CLionProjects/NeuNeu/Übung10/MyQueue.cpp -o CMakeFiles/C__.dir/Übung10/MyQueue.cpp.s
 
-CMakeFiles/C__.dir/Übung8/8.1-3/rational.cpp.o: CMakeFiles/C__.dir/flags.make
-CMakeFiles/C__.dir/Übung8/8.1-3/rational.cpp.o: ../Übung8/8.1-3/rational.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/fdl/Dokumente/C++/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/C__.dir/Übung8/8.1-3/rational.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C__.dir/Übung8/8.1-3/rational.cpp.o -c /home/fdl/Dokumente/C++/Übung8/8.1-3/rational.cpp
+CMakeFiles/C__.dir/Übung10/main.cpp.o: CMakeFiles/C__.dir/flags.make
+CMakeFiles/C__.dir/Übung10/main.cpp.o: ../Übung10/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/cpp/CLionProjects/NeuNeu/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/C__.dir/Übung10/main.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C__.dir/Übung10/main.cpp.o -c /home/cpp/CLionProjects/NeuNeu/Übung10/main.cpp
 
-CMakeFiles/C__.dir/Übung8/8.1-3/rational.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C__.dir/Übung8/8.1-3/rational.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/fdl/Dokumente/C++/Übung8/8.1-3/rational.cpp > CMakeFiles/C__.dir/Übung8/8.1-3/rational.cpp.i
+CMakeFiles/C__.dir/Übung10/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C__.dir/Übung10/main.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/cpp/CLionProjects/NeuNeu/Übung10/main.cpp > CMakeFiles/C__.dir/Übung10/main.cpp.i
 
-CMakeFiles/C__.dir/Übung8/8.1-3/rational.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C__.dir/Übung8/8.1-3/rational.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/fdl/Dokumente/C++/Übung8/8.1-3/rational.cpp -o CMakeFiles/C__.dir/Übung8/8.1-3/rational.cpp.s
+CMakeFiles/C__.dir/Übung10/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C__.dir/Übung10/main.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/cpp/CLionProjects/NeuNeu/Übung10/main.cpp -o CMakeFiles/C__.dir/Übung10/main.cpp.s
 
 # Object files for target C__
 C___OBJECTS = \
-"CMakeFiles/C__.dir/Übung8/8.1-3/main.cpp.o" \
-"CMakeFiles/C__.dir/Übung8/8.1-3/rational.cpp.o"
+"CMakeFiles/C__.dir/Übung10/MyQueue.cpp.o" \
+"CMakeFiles/C__.dir/Übung10/main.cpp.o"
 
 # External object files for target C__
 C___EXTERNAL_OBJECTS =
 
-C__: CMakeFiles/C__.dir/Übung8/8.1-3/main.cpp.o
-C__: CMakeFiles/C__.dir/Übung8/8.1-3/rational.cpp.o
+C__: CMakeFiles/C__.dir/Übung10/MyQueue.cpp.o
+C__: CMakeFiles/C__.dir/Übung10/main.cpp.o
 C__: CMakeFiles/C__.dir/build.make
 C__: CMakeFiles/C__.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/fdl/Dokumente/C++/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable C__"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/cpp/CLionProjects/NeuNeu/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable C__"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/C__.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -108,6 +108,6 @@ CMakeFiles/C__.dir/clean:
 .PHONY : CMakeFiles/C__.dir/clean
 
 CMakeFiles/C__.dir/depend:
-	cd /home/fdl/Dokumente/C++/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/fdl/Dokumente/C++ /home/fdl/Dokumente/C++ /home/fdl/Dokumente/C++/cmake-build-debug /home/fdl/Dokumente/C++/cmake-build-debug /home/fdl/Dokumente/C++/cmake-build-debug/CMakeFiles/C__.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/cpp/CLionProjects/NeuNeu/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/cpp/CLionProjects/NeuNeu /home/cpp/CLionProjects/NeuNeu /home/cpp/CLionProjects/NeuNeu/cmake-build-debug /home/cpp/CLionProjects/NeuNeu/cmake-build-debug /home/cpp/CLionProjects/NeuNeu/cmake-build-debug/CMakeFiles/C__.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/C__.dir/depend
 

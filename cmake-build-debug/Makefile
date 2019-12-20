@@ -39,19 +39,19 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = /home/fdl/snap/clion-2019.2.4/bin/cmake/linux/bin/cmake
+CMAKE_COMMAND = /home/cpp/Downloads/clion/bin/cmake/linux/bin/cmake
 
 # The command to remove a file.
-RM = /home/fdl/snap/clion-2019.2.4/bin/cmake/linux/bin/cmake -E remove -f
+RM = /home/cpp/Downloads/clion/bin/cmake/linux/bin/cmake -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/fdl/Dokumente/C++
+CMAKE_SOURCE_DIR = /home/cpp/CLionProjects/NeuNeu
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/fdl/Dokumente/C++/cmake-build-debug
+CMAKE_BINARY_DIR = /home/cpp/CLionProjects/NeuNeu/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -59,7 +59,7 @@ CMAKE_BINARY_DIR = /home/fdl/Dokumente/C++/cmake-build-debug
 # Special rule for the target rebuild_cache
 rebuild_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
-	/home/fdl/snap/clion-2019.2.4/bin/cmake/linux/bin/cmake -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+	/home/cpp/Downloads/clion/bin/cmake/linux/bin/cmake -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
 .PHONY : rebuild_cache
 
 # Special rule for the target rebuild_cache
@@ -70,7 +70,7 @@ rebuild_cache/fast: rebuild_cache
 # Special rule for the target edit_cache
 edit_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
-	/home/fdl/snap/clion-2019.2.4/bin/cmake/linux/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
+	/home/cpp/Downloads/clion/bin/cmake/linux/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
 .PHONY : edit_cache
 
 # Special rule for the target edit_cache
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/fdl/Dokumente/C++/cmake-build-debug/CMakeFiles /home/fdl/Dokumente/C++/cmake-build-debug/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/cpp/CLionProjects/NeuNeu/cmake-build-debug/CMakeFiles /home/cpp/CLionProjects/NeuNeu/cmake-build-debug/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/fdl/Dokumente/C++/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/cpp/CLionProjects/NeuNeu/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -123,59 +123,59 @@ C__/fast:
 	$(MAKE) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/build
 .PHONY : C__/fast
 
-Übung8/8.1-3/main.o: Übung8/8.1-3/main.cpp.o
+Übung10/MyQueue.o: Übung10/MyQueue.cpp.o
 
-.PHONY : Übung8/8.1-3/main.o
-
-# target to build an object file
-Übung8/8.1-3/main.cpp.o:
-	$(MAKE) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/Übung8/8.1-3/main.cpp.o
-.PHONY : Übung8/8.1-3/main.cpp.o
-
-Übung8/8.1-3/main.i: Übung8/8.1-3/main.cpp.i
-
-.PHONY : Übung8/8.1-3/main.i
-
-# target to preprocess a source file
-Übung8/8.1-3/main.cpp.i:
-	$(MAKE) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/Übung8/8.1-3/main.cpp.i
-.PHONY : Übung8/8.1-3/main.cpp.i
-
-Übung8/8.1-3/main.s: Übung8/8.1-3/main.cpp.s
-
-.PHONY : Übung8/8.1-3/main.s
-
-# target to generate assembly for a file
-Übung8/8.1-3/main.cpp.s:
-	$(MAKE) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/Übung8/8.1-3/main.cpp.s
-.PHONY : Übung8/8.1-3/main.cpp.s
-
-Übung8/8.1-3/rational.o: Übung8/8.1-3/rational.cpp.o
-
-.PHONY : Übung8/8.1-3/rational.o
+.PHONY : Übung10/MyQueue.o
 
 # target to build an object file
-Übung8/8.1-3/rational.cpp.o:
-	$(MAKE) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/Übung8/8.1-3/rational.cpp.o
-.PHONY : Übung8/8.1-3/rational.cpp.o
+Übung10/MyQueue.cpp.o:
+	$(MAKE) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/Übung10/MyQueue.cpp.o
+.PHONY : Übung10/MyQueue.cpp.o
 
-Übung8/8.1-3/rational.i: Übung8/8.1-3/rational.cpp.i
+Übung10/MyQueue.i: Übung10/MyQueue.cpp.i
 
-.PHONY : Übung8/8.1-3/rational.i
+.PHONY : Übung10/MyQueue.i
 
 # target to preprocess a source file
-Übung8/8.1-3/rational.cpp.i:
-	$(MAKE) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/Übung8/8.1-3/rational.cpp.i
-.PHONY : Übung8/8.1-3/rational.cpp.i
+Übung10/MyQueue.cpp.i:
+	$(MAKE) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/Übung10/MyQueue.cpp.i
+.PHONY : Übung10/MyQueue.cpp.i
 
-Übung8/8.1-3/rational.s: Übung8/8.1-3/rational.cpp.s
+Übung10/MyQueue.s: Übung10/MyQueue.cpp.s
 
-.PHONY : Übung8/8.1-3/rational.s
+.PHONY : Übung10/MyQueue.s
 
 # target to generate assembly for a file
-Übung8/8.1-3/rational.cpp.s:
-	$(MAKE) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/Übung8/8.1-3/rational.cpp.s
-.PHONY : Übung8/8.1-3/rational.cpp.s
+Übung10/MyQueue.cpp.s:
+	$(MAKE) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/Übung10/MyQueue.cpp.s
+.PHONY : Übung10/MyQueue.cpp.s
+
+Übung10/main.o: Übung10/main.cpp.o
+
+.PHONY : Übung10/main.o
+
+# target to build an object file
+Übung10/main.cpp.o:
+	$(MAKE) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/Übung10/main.cpp.o
+.PHONY : Übung10/main.cpp.o
+
+Übung10/main.i: Übung10/main.cpp.i
+
+.PHONY : Übung10/main.i
+
+# target to preprocess a source file
+Übung10/main.cpp.i:
+	$(MAKE) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/Übung10/main.cpp.i
+.PHONY : Übung10/main.cpp.i
+
+Übung10/main.s: Übung10/main.cpp.s
+
+.PHONY : Übung10/main.s
+
+# target to generate assembly for a file
+Übung10/main.cpp.s:
+	$(MAKE) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/Übung10/main.cpp.s
+.PHONY : Übung10/main.cpp.s
 
 # Help Target
 help:
@@ -186,12 +186,12 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... C__"
 	@echo "... edit_cache"
-	@echo "... Übung8/8.1-3/main.o"
-	@echo "... Übung8/8.1-3/main.i"
-	@echo "... Übung8/8.1-3/main.s"
-	@echo "... Übung8/8.1-3/rational.o"
-	@echo "... Übung8/8.1-3/rational.i"
-	@echo "... Übung8/8.1-3/rational.s"
+	@echo "... Übung10/MyQueue.o"
+	@echo "... Übung10/MyQueue.i"
+	@echo "... Übung10/MyQueue.s"
+	@echo "... Übung10/main.o"
+	@echo "... Übung10/main.i"
+	@echo "... Übung10/main.s"
 .PHONY : help
 
 

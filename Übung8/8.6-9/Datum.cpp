@@ -99,6 +99,7 @@ bool istGueltigesDatum(int t, int m, int j) {
 int DatumDifferenz(const Datum& a, const Datum& b) {
     int dif = 0;
     //Magische Datums rechnung
+    //MK-Time und diffTim von Struct ( noch ein Grund warum C++ Müll ist)
     return dif;
 }
 

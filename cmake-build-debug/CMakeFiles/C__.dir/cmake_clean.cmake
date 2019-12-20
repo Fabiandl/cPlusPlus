@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/C__.dir/Übung8/8.1-3/main.cpp.o"
-  "CMakeFiles/C__.dir/Übung8/8.1-3/rational.cpp.o"
+  "CMakeFiles/C__.dir/Übung10/MyQueue.cpp.o"
+  "CMakeFiles/C__.dir/Übung10/main.cpp.o"
   "C__"
   "C__.pdb"
 )

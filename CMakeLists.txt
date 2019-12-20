@@ -1,4 +1,5 @@
 cmake_minimum_required(VERSION 3.15)
+set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11 -pthread")
 project(C__)
 
 set(CMAKE_CXX_STANDARD 14)
@@ -13,4 +14,4 @@ include_directories(Übung5/Drehmel_Fabian_Uebung5)
 
 add_executable(C__
 #        Übung9/NamensMap.cpp
-        Übung10/MyQueue.cpp Übung10/MyQueue.h Übung10/main.cpp)
+        Übung11/11.6/main)

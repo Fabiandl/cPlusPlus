@@ -5,7 +5,7 @@
 using namespace std;
 
 int main(){
-    string filePath = "/home/fdl/Dokumente/C++/Test.txt";
+    string filePath = "/home/cpp/Test.txt";
     ifstream file(filePath);
 
     if(file.is_open()){

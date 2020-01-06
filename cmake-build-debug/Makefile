@@ -48,10 +48,10 @@ RM = /snap/clion/99/bin/cmake/linux/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/fdl/Dokumente/C++
+CMAKE_SOURCE_DIR = /home/cpp/CLionProjects/cPlusPlus
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/fdl/Dokumente/C++/cmake-build-debug
+CMAKE_BINARY_DIR = /home/cpp/CLionProjects/cPlusPlus/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/fdl/Dokumente/C++/cmake-build-debug/CMakeFiles /home/fdl/Dokumente/C++/cmake-build-debug/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/cpp/CLionProjects/cPlusPlus/cmake-build-debug/CMakeFiles /home/cpp/CLionProjects/cPlusPlus/cmake-build-debug/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/fdl/Dokumente/C++/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/cpp/CLionProjects/cPlusPlus/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -123,32 +123,32 @@ C__/fast:
 	$(MAKE) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/build
 .PHONY : C__/fast
 
-Übung11/11.6/main.o: Übung11/11.6/main.cpp.o
+Übung5/Aufgabe_5.1-GroesseMatrix.o: Übung5/Aufgabe_5.1-GroesseMatrix.cpp.o
 
-.PHONY : Übung11/11.6/main.o
+.PHONY : Übung5/Aufgabe_5.1-GroesseMatrix.o
 
 # target to build an object file
-Übung11/11.6/main.cpp.o:
-	$(MAKE) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/Übung11/11.6/main.cpp.o
-.PHONY : Übung11/11.6/main.cpp.o
+Übung5/Aufgabe_5.1-GroesseMatrix.cpp.o:
+	$(MAKE) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/Übung5/Aufgabe_5.1-GroesseMatrix.cpp.o
+.PHONY : Übung5/Aufgabe_5.1-GroesseMatrix.cpp.o
 
-Übung11/11.6/main.i: Übung11/11.6/main.cpp.i
+Übung5/Aufgabe_5.1-GroesseMatrix.i: Übung5/Aufgabe_5.1-GroesseMatrix.cpp.i
 
-.PHONY : Übung11/11.6/main.i
+.PHONY : Übung5/Aufgabe_5.1-GroesseMatrix.i
 
 # target to preprocess a source file
-Übung11/11.6/main.cpp.i:
-	$(MAKE) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/Übung11/11.6/main.cpp.i
-.PHONY : Übung11/11.6/main.cpp.i
+Übung5/Aufgabe_5.1-GroesseMatrix.cpp.i:
+	$(MAKE) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/Übung5/Aufgabe_5.1-GroesseMatrix.cpp.i
+.PHONY : Übung5/Aufgabe_5.1-GroesseMatrix.cpp.i
 
-Übung11/11.6/main.s: Übung11/11.6/main.cpp.s
+Übung5/Aufgabe_5.1-GroesseMatrix.s: Übung5/Aufgabe_5.1-GroesseMatrix.cpp.s
 
-.PHONY : Übung11/11.6/main.s
+.PHONY : Übung5/Aufgabe_5.1-GroesseMatrix.s
 
 # target to generate assembly for a file
-Übung11/11.6/main.cpp.s:
-	$(MAKE) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/Übung11/11.6/main.cpp.s
-.PHONY : Übung11/11.6/main.cpp.s
+Übung5/Aufgabe_5.1-GroesseMatrix.cpp.s:
+	$(MAKE) -f CMakeFiles/C__.dir/build.make CMakeFiles/C__.dir/Übung5/Aufgabe_5.1-GroesseMatrix.cpp.s
+.PHONY : Übung5/Aufgabe_5.1-GroesseMatrix.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... C__"
 	@echo "... edit_cache"
-	@echo "... Übung11/11.6/main.o"
-	@echo "... Übung11/11.6/main.i"
-	@echo "... Übung11/11.6/main.s"
+	@echo "... Übung5/Aufgabe_5.1-GroesseMatrix.o"
+	@echo "... Übung5/Aufgabe_5.1-GroesseMatrix.i"
+	@echo "... Übung5/Aufgabe_5.1-GroesseMatrix.s"
 .PHONY : help
 
 

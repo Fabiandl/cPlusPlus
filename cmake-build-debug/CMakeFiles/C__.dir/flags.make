@@ -6,5 +6,5 @@ CXX_FLAGS =  -std=c++11 -pthread -g   -std=gnu++14
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/fdl/Dokumente/C++/. -I/home/fdl/Dokumente/C++/Übung1 -I/home/fdl/Dokumente/C++/Übung2 -I/home/fdl/Dokumente/C++/Übung3 -I/home/fdl/Dokumente/C++/Übung4 -I/home/fdl/Dokumente/C++/Übung4/Drehmel_Fabian_uebung4 -I/home/fdl/Dokumente/C++/Übung5/Drehmel_Fabian_Uebung5 
+CXX_INCLUDES = -I/home/cpp/CLionProjects/cPlusPlus/. -I/home/cpp/CLionProjects/cPlusPlus/Übung1 -I/home/cpp/CLionProjects/cPlusPlus/Übung2 -I/home/cpp/CLionProjects/cPlusPlus/Übung3 -I/home/cpp/CLionProjects/cPlusPlus/Übung4 -I/home/cpp/CLionProjects/cPlusPlus/Übung4/Drehmel_Fabian_uebung4 -I/home/cpp/CLionProjects/cPlusPlus/Übung5/Drehmel_Fabian_Uebung5 
 

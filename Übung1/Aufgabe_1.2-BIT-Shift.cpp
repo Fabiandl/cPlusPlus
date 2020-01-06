@@ -4,6 +4,7 @@ int main(){
 
     unsigned int ux = 1;
     int x = 1;
+    //Shifts um Bit-Zahl
     cout << "Maximaler uint-Wert: " << ~(ux >> 31) << endl;
     cout << "Maximaler int Wert: " << ~(x << 31) << endl;
     cout << "Minimaler int Wert: " << (x << 31) << endl << endl;

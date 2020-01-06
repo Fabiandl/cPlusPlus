@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/C__.dir/Übung11/11.6/main.cpp.o"
+  "CMakeFiles/C__.dir/Übung5/Aufgabe_5.1-GroesseMatrix.cpp.o"
   "C__"
   "C__.pdb"
 )

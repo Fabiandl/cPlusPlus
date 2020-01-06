@@ -13,6 +13,7 @@ int main(){
 
     string content;
     //ifstream zum einlesen einer Textdatei
+    //FIXME
     ifstream file ("Hallo.sec");
 
     //Wenn die Datei geöffnet werden kann
